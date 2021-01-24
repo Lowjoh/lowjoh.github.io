@@ -13,6 +13,7 @@ body {
   font-family: 'Gafata', sans-serif;
   color: #ffffff;
   font-size: 20px;
+  line-height: 1.1em;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
