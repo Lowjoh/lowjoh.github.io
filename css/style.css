@@ -33,7 +33,7 @@ h1 {
   margin: 0.2em 0;
 }
 
-img  {
+img {
   height: auto;
   max-width: 100%;
 }
@@ -84,3 +84,15 @@ img  {
 }
 
 @media only screen and (max-width : 480px) {}
+
+@media (min-width: 1400px) {
+  .content {
+    font-size: 1.286em;
+    line-height: 1.6em;
+    padding-left: 20vw;
+  }
+
+  .profile-bio {
+    max-width: 420px;
+  }
+}
