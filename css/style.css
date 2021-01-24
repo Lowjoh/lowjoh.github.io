@@ -18,17 +18,6 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-.job-role {
-  margin-top: 0;
-  text-transform: capitalize;
-  font-size: 0.8em;
-}
-
-.content {
-  margin-top: 10vh;
-  padding: 0 10vw;
-}
-
 a {
   color: rgba(161, 223, 235, 1);
   text-decoration: none;
@@ -38,11 +27,16 @@ a:visited {
   color: rgba(161, 223, 235, 0.7);
 }
 
-.h1 {
+h1 {
   font: normal small-caps 2.05em Gafata;
   color: #ffffff;
   text-transform: none;
   margin: 0.2em 0;
+}
+
+.content {
+  margin-top: 10vh;
+  padding: 0 10vw;
 }
 
 .profile-bio {
@@ -61,20 +55,25 @@ a:visited {
   opacity: 0.5;
 }
 
+.linkedinlink {
+  width:30px;
+  margin-top:5px
+}
+
 .rotating-photo img {
   min-height: 100vh;
   min-width: 100vw;
 }
 
 .aligncenter {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 img {
-    height: auto;
-    max-width: 100%;
+  height: auto;
+  max-width: 100%;
 }
 
 @media only screen and (max-width : 320px) {
