@@ -4,8 +4,6 @@
  Author URI:   http://lowjoh.github.io
  Version:      1.0.1
 */
-@import url('https://fonts.googleapis.com/css?family=Gafata');
-
 body {
   height: 100vh;
   background: -o-linear-gradient(71deg, #bf2f62 2.1%, #03a0b1);
@@ -13,18 +11,19 @@ body {
   font-family: 'Gafata', sans-serif;
   color: #ffffff;
   font-size: 20px;
-  line-height: 1.1em;
+  line-height: 1.45em;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 a {
-  color: rgba(161, 223, 235, 1);
+  color: rgb(136 215 230);
   text-decoration: none;
 }
 
-a:visited {
-  color: rgba(161, 223, 235, 0.7);
+a:hover {
+  color: rgb(136 215 230);
+  /* text-shadow: 2px 2px #901b4a; */
 }
 
 h1 {
@@ -32,6 +31,11 @@ h1 {
   color: #ffffff;
   text-transform: none;
   margin: 0.2em 0;
+}
+asdf
+img  {
+  height: auto;
+  max-width: 100%;
 }
 
 .content {
@@ -43,8 +47,9 @@ h1 {
   max-width: 400px;
 }
 
-.profile-links {
-  font-size: 0.8em;
+.linkedinlink {
+  width: 30px;
+  margin-top: 5px
 }
 
 .rotating-photo {
@@ -53,11 +58,6 @@ h1 {
   top: 0;
   left: 0;
   opacity: 0.5;
-}
-
-.linkedinlink {
-  width:30px;
-  margin-top:5px
 }
 
 .rotating-photo img {
@@ -69,11 +69,6 @@ h1 {
   display: block;
   margin-left: auto;
   margin-right: auto;
-}
-
-img {
-  height: auto;
-  max-width: 100%;
 }
 
 @media only screen and (max-width : 320px) {
