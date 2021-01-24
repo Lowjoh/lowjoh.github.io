@@ -1,20 +1,14 @@
 /*
- Theme Name:   lowjoh-stylesheet
- Theme URI:
- Description:  lowjoh personal site Theme
  Author:       lowjoh
+ Description:  lowjoh personal site Theme
  Author URI:   http://lowjoh.github.io
- Template:     lowjoh
  Version:      1.0.1
- License:      GNU General Public License v2 or later
- License URI:  http://www.gnu.org/licenses/gpl-2.0.html
- Tags:
- Text Domain:
 */
 @import url('https://fonts.googleapis.com/css?family=Gafata');
 
 body {
   height: 100vh;
+  background: -o-linear-gradient(71deg, #bf2f62 2.1%, #03a0b1);
   background: linear-gradient(19deg, #bf2f62 2.1%, #03a0b1);
   font-family: 'Gafata', sans-serif;
   color: #ffffff;
