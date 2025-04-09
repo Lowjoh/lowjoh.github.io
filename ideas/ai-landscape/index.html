@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Enterprise LLM Integration Landscape 2024</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>Enterprise LLM Integration Landscape 2024</h1>
+      <nav>
+        <ul>
+          <li><a href="#overview">Overview</a></li>
+          <li><a href="#categories">Categories</a></li>
+          <li><a href="#companies">Companies</a></li>
+          <li><a href="#products">Products</a></li>
+          <li><a href="#layers">Stack Layers</a></li>
+        </ul>
+      </nav>
+      <div class="search-container">
+        <input type="text" id="search-input" placeholder="Search technologies, companies...">
+      </div>
+    </div>
+  </header>
+
+  <section id="overview" class="section">
+    <div class="container">
+      <h2>LLM Technology Landscape Overview</h2>
+      <p>This interactive resource provides a comprehensive overview of the Enterprise LLM Integration Infrastructure Landscape as of 2024/2025. Browse technologies by category, company, product, or architectural layer.</p>
+      
+      <div class="stats-container">
+        <div class="stat-box">
+          <h3>9</h3>
+          <p>Technology Categories</p>
+        </div>
+        <div class="stat-box">
+          <h3>15+</h3>
+          <p>Key Companies</p>
+        </div>
+        <div class="stat-box">
+          <h3>6</h3>
+          <p>Architecture Layers</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="categories" class="section">
+    <div class="container">
+      <h2>Technology Categories</h2>
+      <div class="grid-container" id="categories-grid"></div>
+    </div>
+  </section>
+
+  <section id="companies" class="section">
+    <div class="container">
+      <h2>Companies</h2>
+      <div class="filter-bar">
+        <select id="company-filter">
+          <option value="all">All Categories</option>
+          <!-- Categories will be populated by JS -->
+        </select>
+      </div>
+      <div class="grid-container" id="companies-grid"></div>
+    </div>
+  </section>
+
+  <section id="products" class="section">
+    <div class="container">
+      <h2>Products & Solutions</h2>
+      <div class="filter-bar">
+        <select id="product-filter">
+          <option value="all">All Categories</option>
+          <!-- Categories will be populated by JS -->
+        </select>
+      </div>
+      <div class="grid-container" id="products-grid"></div>
+    </div>
+  </section>
+
+  <section id="layers" class="section">
+    <div class="container">
+      <h2>LLM Architecture Stack</h2>
+      <div class="stack-visualization">
+        <div id="stack-container"></div>
+      </div>
+    </div>
+  </section>
+
+  <div id="detail-modal" class="modal">
+    <div class="modal-content">
+      <span class="close-modal">&times;</span>
+      <div id="modal-content"></div>
+    </div>
+  </div>
+
+  <footer>
+    <div class="container">
+      <p>Enterprise LLM Integration Landscape © 2024 | Data compiled from industry research</p>
+    </div>
+  </footer>
+
+  <script src="data/database.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html> 
