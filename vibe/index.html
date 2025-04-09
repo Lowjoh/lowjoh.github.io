@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>✨</text></svg>">
+  <title>Vibe - Johannes Wolters</title>
+  <link rel="dns-prefetch" href="https://fonts.googleapis.com">
+  <link rel="stylesheet" href="../css/style.css" type="text/css" media="all">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Gafata" type="text/css" media="all">
+  <style>
+    .vibe-container {
+      display: flex;
+      flex-direction: column;
+      max-width: 800px;
+      margin: 0 auto;
+    }
+    
+    .vibe-card {
+      background: rgba(255, 255, 255, 0.1);
+      border-radius: 12px;
+      padding: 20px;
+      margin-bottom: 20px;
+      backdrop-filter: blur(10px);
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    
+    .vibe-card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    }
+    
+    .vibe-title {
+      font-size: 2.2em;
+      margin-bottom: 30px;
+      text-align: center;
+    }
+    
+    .home-link {
+      position: absolute;
+      top: 20px;
+      left: 20px;
+      font-size: 1.2em;
+    }
+  </style>
+</head>
+
+<body>
+  <a href="../" class="home-link">← Home</a>
+  
+  <div class="content">
+    <h1 class="vibe-title">✨ Vibe Collection</h1>
+    
+    <div class="vibe-container">
+      <div class="vibe-card">
+        <h2>Tech Stack</h2>
+        <p>A collection of technical resources, examples, and research on various technologies.</p>
+        <p><a href="stack/">Explore the stack →</a></p>
+      </div>
+    </div>
+  </div>
+</body>
+</html> 
