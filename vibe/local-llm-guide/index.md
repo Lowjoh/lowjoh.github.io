@@ -44,5 +44,5 @@ For a quick assessment of whether building a personal LLM system is right for yo
 
 <div class="cta-box">
   <h3>Ready to build your own AI assistant?</h3>
-  <p>Proceed to <a href="/local-llm-guide/01-motivations.html">Chapter 1: Motivations for Running LLMs Locally</a> to begin your journey toward AI sovereignty.</p>
+  <p>Proceed to <a href="/vibe/local-llm-guide/01-motivations.html">Chapter 1: Motivations for Running LLMs Locally</a> to begin your journey toward AI sovereignty.</p>
 </div> 

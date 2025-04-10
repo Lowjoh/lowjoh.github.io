@@ -9,9 +9,9 @@ subtitle: "A survey of software and projects to build your local AI stack"
 ![Tools Ecosystem](/local-llm-guide/assets/tools-ecosystem.jpg)
 
 <div class="chapter-nav">
-  <a href="/local-llm-guide/03-architecture.html" class="prev">← Previous Chapter</a>
+  <a href="/vibe/local-llm-guide/03-architecture.html" class="prev">← Previous Chapter</a>
   <span class="sep">|</span>
-  <a href="/local-llm-guide/05-feasibility.html" class="next">Next Chapter →</a>
+  <a href="/vibe/local-llm-guide/05-feasibility.html" class="next">Next Chapter →</a>
 </div>
 
 Building a local LLM-powered assistant is facilitated by a rich ecosystem. Below we map each layer of the architecture to representative **open-source projects and platforms** that provide relevant capabilities. Wherever possible, these tools are chosen for being self-hostable or privacy-preserving.
@@ -651,9 +651,9 @@ This overlaps with UI and smart home, but focusing on **input methods that respe
 </div>
 
 <div class="chapter-nav">
-  <a href="/local-llm-guide/03-architecture.html" class="prev">← Previous Chapter</a>
+  <a href="/vibe/local-llm-guide/03-architecture.html" class="prev">← Previous Chapter</a>
   <span class="sep">|</span>
-  <a href="/local-llm-guide/05-feasibility.html" class="next">Next Chapter →</a>
+  <a href="/vibe/local-llm-guide/05-feasibility.html" class="next">Next Chapter →</a>
 </div>
 
 <div class="resources-box">

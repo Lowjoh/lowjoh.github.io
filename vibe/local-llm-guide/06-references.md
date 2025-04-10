@@ -9,9 +9,9 @@ subtitle: "Sources and additional reading materials"
 ![Library](/local-llm-guide/assets/library.jpg)
 
 <div class="chapter-nav">
-  <a href="/local-llm-guide/05-feasibility.html" class="prev">← Previous Chapter</a>
+  <a href="/vibe/local-llm-guide/05-feasibility.html" class="prev">← Previous Chapter</a>
   <span class="sep">|</span>
-  <a href="/local-llm-guide/" class="next">Back to Home</a>
+  <a href="/vibe/local-llm-guide/" class="next">Back to Home</a>
 </div>
 
 This guide draws on a variety of sources from across the local LLM ecosystem. Below you'll find a comprehensive list of references organized by category, along with additional resources for further exploration.
@@ -163,9 +163,9 @@ This guide draws on a variety of sources from across the local LLM ecosystem. Be
 - [MLX Community](https://huggingface.co/spaces/mlx-community) - Resources for Apple Silicon optimization
 
 <div class="chapter-nav">
-  <a href="/local-llm-guide/05-feasibility.html" class="prev">← Previous Chapter</a>
+  <a href="/vibe/local-llm-guide/05-feasibility.html" class="prev">← Previous Chapter</a>
   <span class="sep">|</span>
-  <a href="/local-llm-guide/" class="next">Back to Home</a>
+  <a href="/vibe/local-llm-guide/" class="next">Back to Home</a>
 </div>
 
 <div class="cta-box">

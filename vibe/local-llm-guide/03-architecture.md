@@ -9,9 +9,9 @@ subtitle: "Building a comprehensive AI system layer by layer"
 ![System Architecture](/local-llm-guide/assets/architecture-overview.jpg)
 
 <div class="chapter-nav">
-  <a href="/local-llm-guide/02-underlying-needs.html" class="prev">← Previous Chapter</a>
+  <a href="/vibe/local-llm-guide/02-underlying-needs.html" class="prev">← Previous Chapter</a>
   <span class="sep">|</span>
-  <a href="/local-llm-guide/04-ecosystem.html" class="next">Next Chapter →</a>
+  <a href="/vibe/local-llm-guide/04-ecosystem.html" class="next">Next Chapter →</a>
 </div>
 
 If one were to design a full-stack **LLM-based personal operating system**, it would comprise several layers working in concert. This architecture represents an ideal implementation that addresses the needs and motivations discussed in previous chapters.
@@ -209,9 +209,9 @@ In summary, a full-fledged personal LLM OS involves bridging **hardware, softwar
 It's an ambitious integration of components, but a growing ecosystem of tools and projects is making each of these layers possible. In the next chapter, we'll explore specific technologies available for implementing this architecture.
 
 <div class="chapter-nav">
-  <a href="/local-llm-guide/02-underlying-needs.html" class="prev">← Previous Chapter</a>
+  <a href="/vibe/local-llm-guide/02-underlying-needs.html" class="prev">← Previous Chapter</a>
   <span class="sep">|</span>
-  <a href="/local-llm-guide/04-ecosystem.html" class="next">Next Chapter →</a>
+  <a href="/vibe/local-llm-guide/04-ecosystem.html" class="next">Next Chapter →</a>
 </div>
 
 <div class="resources-box">

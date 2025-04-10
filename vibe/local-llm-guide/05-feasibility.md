@@ -9,9 +9,9 @@ subtitle: "How realistic is building your own AI assistant today?"
 ![Feasibility Assessment](/local-llm-guide/assets/feasibility-gauge.jpg)
 
 <div class="chapter-nav">
-  <a href="/local-llm-guide/04-ecosystem.html" class="prev">← Previous Chapter</a>
+  <a href="/vibe/local-llm-guide/04-ecosystem.html" class="prev">← Previous Chapter</a>
   <span class="sep">|</span>
-  <a href="/local-llm-guide/06-references.html" class="next">Next Chapter →</a>
+  <a href="/vibe/local-llm-guide/06-references.html" class="next">Next Chapter →</a>
 </div>
 
 **How close are we to a true personal "LLM OS"?** As of early 2025, *some pieces are quite mature*, while others remain nascent or require technical savvy to implement. This chapter provides a critical assessment of the current state of personal AI systems.
@@ -128,9 +128,9 @@ Given the momentum, we can expect the home user scenario to become easier. Perha
 Until then, technically inclined users are enjoying the journey of putting the puzzle together themselves – driven by the strong value propositions of privacy, control, and personalization that local LLMs uniquely offer.
 
 <div class="chapter-nav">
-  <a href="/local-llm-guide/04-ecosystem.html" class="prev">← Previous Chapter</a>
+  <a href="/vibe/local-llm-guide/04-ecosystem.html" class="prev">← Previous Chapter</a>
   <span class="sep">|</span>
-  <a href="/local-llm-guide/06-references.html" class="next">Next Chapter →</a>
+  <a href="/vibe/local-llm-guide/06-references.html" class="next">Next Chapter →</a>
 </div>
 
 <div class="cta-box">

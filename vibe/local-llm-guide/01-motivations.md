@@ -9,9 +9,9 @@ subtitle: "Why build your own AI assistant at home?"
 ![Privacy Shield](/local-llm-guide/assets/privacy-shield.jpg)
 
 <div class="chapter-nav">
-  <a href="/local-llm-guide/" class="prev">Home</a>
+  <a href="/vibe/local-llm-guide/" class="prev">Home</a>
   <span class="sep">|</span>
-  <a href="/local-llm-guide/02-underlying-needs.html" class="next">Next Chapter →</a>
+  <a href="/vibe/local-llm-guide/02-underlying-needs.html" class="next">Next Chapter →</a>
 </div>
 
 ## Data Privacy & Security
@@ -126,9 +126,9 @@ Running an open-source LLM means you know exactly what model is being used and c
 This sense of owning the "brain" builds confidence when connecting it to personal and family data. It's similar to the appeal of self-hosting other services (email, file storage) – you retain ultimate agency over software that's deeply embedded in your life.
 
 <div class="chapter-nav">
-  <a href="/local-llm-guide/" class="prev">Home</a>
+  <a href="/vibe/local-llm-guide/" class="prev">Home</a>
   <span class="sep">|</span>
-  <a href="/local-llm-guide/02-underlying-needs.html" class="next">Next Chapter →</a>
+  <a href="/vibe/local-llm-guide/02-underlying-needs.html" class="next">Next Chapter →</a>
 </div>
 
 <div class="resources-box">

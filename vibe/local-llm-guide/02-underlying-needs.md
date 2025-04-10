@@ -9,9 +9,9 @@ subtitle: "The core human values behind personal AI"
 ![Human Needs Pyramid](/local-llm-guide/assets/needs-pyramid.jpg)
 
 <div class="chapter-nav">
-  <a href="/local-llm-guide/01-motivations.html" class="prev">← Previous Chapter</a>
+  <a href="/vibe/local-llm-guide/01-motivations.html" class="prev">← Previous Chapter</a>
   <span class="sep">|</span>
-  <a href="/local-llm-guide/03-architecture.html" class="next">Next Chapter →</a>
+  <a href="/vibe/local-llm-guide/03-architecture.html" class="next">Next Chapter →</a>
 </div>
 
 Several core **needs and values** underlie the motivations for running LLMs locally. Understanding these deeper drivers helps explain why this movement is gaining momentum among privacy-conscious individuals and tech enthusiasts.
@@ -148,9 +148,9 @@ These themes – **privacy, sovereignty, personalization, utility, reliability, 
 Achieving these in practice requires assembling a fairly sophisticated stack of tools and components. In the next chapter, we'll explore what a comprehensive "Personal LLM OS" architecture looks like.
 
 <div class="chapter-nav">
-  <a href="/local-llm-guide/01-motivations.html" class="prev">← Previous Chapter</a>
+  <a href="/vibe/local-llm-guide/01-motivations.html" class="prev">← Previous Chapter</a>
   <span class="sep">|</span>
-  <a href="/local-llm-guide/03-architecture.html" class="next">Next Chapter →</a>
+  <a href="/vibe/local-llm-guide/03-architecture.html" class="next">Next Chapter →</a>
 </div>
 
 <div class="reflection-box">
